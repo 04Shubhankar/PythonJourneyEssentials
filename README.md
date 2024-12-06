@@ -38,5 +38,5 @@ pip install opencv-python
 pip install matplotlib
 pip install pandas
 pip install scikit-learn
-pip install mysql-connector-python
+
 
